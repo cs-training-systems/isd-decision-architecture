@@ -2,7 +2,7 @@ Disclaimer: This repository contains only generic, sanitized instructional syste
 All contents are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en). 
 
 
-# ISD Decision Architecture
+# ISD Decision Architecture Project
 **Project Type:** Computational Ontology & Decision Support Framework
 **Phase:** I - Taxonomic Discovery & Primitive Mapping
 
